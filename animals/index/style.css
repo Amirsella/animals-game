@@ -1,0 +1,29 @@
+
+.gif{
+    width: 100px;
+    height: 100px;
+}
+
+.runner {
+    position: absolute;
+ left:0;  
+    top:600px;
+}
+
+.runners :nth-child(1){
+top:100px
+}
+
+.runners :nth-child(2){
+    top:280px
+    }
+
+    .runners :nth-child(3){
+        top:420px
+        }
+        
+
+
+        .marker{
+            border: solid green 1px;
+        }
